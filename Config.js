@@ -6,7 +6,7 @@ global.settings = {
   BOT_NAME: "𝐆𝐞𝐧𝐞𝐫𝐚𝐥 𝐆𝐚𝐧𝐳𝐚", // your preferred bot name
   SESSION_ID: 'kord_ai-qV9dfAkTfz2s', // put your session id between the ''
   INVINCIBLE_MODE: true, // toogle invincible mode 
-  WORK_MODE: "Public",
+  WORK_MODE: "Private",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
