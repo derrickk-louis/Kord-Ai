@@ -1,11 +1,11 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2347013159244", // your number with country code
-  OWNER_NAME: 'Annoy', // your owner name 
-  BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'kord_ai-EQsiEnqqpfEg', // put your session id between the ''
-  INVINCIBLE_MODE: false, // toogle invincible mode 
+  OWNER_NUMBERS: "2349123310756", // your number with country code
+  OWNER_NAME: '𝐆𝐞𝐧𝐞𝐫𝐚𝐥 𝐆𝐚𝐧𝐳𝐚', // your owner name 
+  BOT_NAME: "𝐆𝐞𝐧𝐞𝐫𝐚𝐥 𝐆𝐚𝐧𝐳𝐚", // your preferred bot name
+  SESSION_ID: 'kord_ai-qV9dfAkTfz2s', // put your session id between the ''
+  INVINCIBLE_MODE: true, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
